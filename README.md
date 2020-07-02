@@ -20,7 +20,7 @@
  ###  **2020-05-03** 
 >* [문자열(Trie)/자동완성/Programmers](https://programmers.co.kr/learn/courses/30/lessons/17685 "자동완성/Programmers link")
 
- ###  **2020-05-16 
+ ###  **2020-05-16** 
 >* [SQL/우유와 요거트가 담긴 장바구니/Programmers](https://programmers.co.kr/learn/courses/30/lessons/62284 "우유와 요거트가 담긴 장바구니/Programmers link")
 
  ###  **2020-05-31**  
