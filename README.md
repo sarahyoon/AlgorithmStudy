@@ -38,7 +38,7 @@
 >* [정렬/H-Index/Programmers](https://programmers.co.kr/learn/courses/30/lessons/42747 "H-Index/Programmers link")
 
  ###  **2020-07-01**  
->* [SlidingWindow/최소값찾기/BOJ](https://www.acmicpc.net/problem/11003 "최소값찾기/BOJ link")
+>* [SlidingWindow/최소값찾기/BOJ](https://www.acmicpc.net/problem/11003 "최소값찾기/BOJ link")  
 &nbsp;&nbsp; MinMolang 코드 추가[2020-07-03] #파이썬 deque 모듈 활용 -> 시간초과 해결
 >* [DP/타일 장식물/Programmers](https://programmers.co.kr/learn/courses/30/lessons/43104 "타일 장식물/Programmers link")  
 &nbsp;&nbsp; MinMolang 코드 추가[2020-07-03]
