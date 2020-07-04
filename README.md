@@ -44,4 +44,7 @@
 &nbsp;&nbsp; MinMolang 코드 추가[2020-07-03]
 >* [DP/N으로 표현/Programmers](https://programmers.co.kr/learn/courses/30/lessons/42895 "N으로 표현/Programmers link")
 
-
+ ###  **2020-07-04**  
+>* [이분탐색/랜선자르기/BOJ](https://www.acmicpc.net/problem/1654 "랜선자르기/BOJ link")  
+&nbsp;&nbsp;Q. MAX를 왜 랜선의 최대길이일까? 최소길이는 안되는 것일까?
+>* [힙/라면공장/Programmers](https://programmers.co.kr/learn/courses/30/lessons/42629 "라면공장/Programmers link")
