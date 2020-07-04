@@ -48,3 +48,4 @@
 >* [이분탐색/랜선자르기/BOJ](https://www.acmicpc.net/problem/1654 "랜선자르기/BOJ link")  
 &nbsp;&nbsp;Q. MAX를 왜 랜선의 최대길이일까? 최소길이는 안되는 것일까?
 >* [힙/라면공장/Programmers](https://programmers.co.kr/learn/courses/30/lessons/42629 "라면공장/Programmers link")
+&nbsp;&nbsp; MinMolang 코드 추가[2020-07-05] #[reference1.](https://youngest-programming.tistory.com/318 "라면공장 reference1 link")python 시간초과 #[reference2.](https://codedrive.tistory.com/82 "라면공장 reference2 link")로 해결
