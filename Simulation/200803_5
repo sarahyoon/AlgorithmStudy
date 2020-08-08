@@ -1,0 +1,17 @@
+import sys
+k_toss = []
+l_toss = []
+ans = ''
+
+k_toss =  list(map(int,sys.stdin.readline().strip().split()))
+l_toss =  list(map(int,sys.stdin.readline().strip().split()))
+k_toss.append(0)
+l_toss.append(0)
+for i in range(len(k_toss)-1):
+    left = k_toss[i] - l_toss[i]
+    if left> 0:
+        ans+=str(left)+" "
+    else:
+        ans+=str(0)+" "
+        k_toss[i+1] += left
+print(ans)
